@@ -21,7 +21,7 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'root');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', '***');
+define('DB_PASSWORD', '');
 
 /** MySQL主机 */
 define('DB_HOST', 'localhost');
@@ -34,7 +34,7 @@ define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
 define('FTP_HOST', 'localhost');
 define('FTP_USER', 'work');
-define('FTP_PASS', '***');
+define('FTP_PASS', '');
 
 define("FS_METHOD", "direct");
 define("FS_CHMOD_DIR", 0777);

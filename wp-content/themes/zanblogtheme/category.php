@@ -15,14 +15,14 @@
 			<div class="col-md-8" id="mainstay">
         
         <!-- 面包屑 -->
-        <div class="breadcrumb" id="zan-breadcrumb">
+<!--        <div class="breadcrumb" id="zan-breadcrumb">
           <?php 
             if( function_exists( 'bcn_display' ) ) {
               echo '<i class="fa fa-map-marker"></i> ';
               bcn_display();
             }
           ?>
-        </div>
+        </div> -->
         <!-- 面包屑结束 -->
 
         <!-- 内容主体 -->

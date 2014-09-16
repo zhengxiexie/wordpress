@@ -16,14 +16,14 @@
 				<article class="zan-article">
 
 			    <!-- 面包屑 -->
-			    <div class="breadcrumb">
+<!--			    <div class="breadcrumb">
 			      <?php 
 			        if( function_exists( 'bcn_display' ) ) {
 			          echo '<i class="fa fa-map-marker"></i> ';
 			          bcn_display();
 			        }
 			      ?>
-			    </div>
+			    </div> -->
 			    <!-- 面包屑结束 -->
 						<section class="sitemap-module">
 							<div class="title"><i class="fa fa-folder"></i> 所有分类</div>

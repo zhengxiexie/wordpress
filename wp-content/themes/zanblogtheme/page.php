@@ -16,14 +16,14 @@
 				<article class="zan-article">
 
 					<!-- 面包屑 -->
-					<div class="breadcrumb">
+<!--					<div class="breadcrumb">
 				    <?php
 				    	if( function_exists( 'bcn_display' ) ) {
 			        	echo '<i class="fa fa-map-marker"></i> ';
 			        	bcn_display();
 				    	}
 				    ?>
-					</div>
+					</div> -->
 					<!-- 面包屑结束 -->
 
 					<?php while ( $wp_query->have_posts() ) : $wp_query->the_post(); ?>
