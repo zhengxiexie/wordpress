@@ -73,6 +73,17 @@
   <script src="<?php echo get_template_directory_uri(); ?>/ui/js/respond.min.js"></script>
   <script src="<?php echo get_template_directory_uri(); ?>/ui/js/html5shiv.js"></script>
 <![endif]-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+	  var hm = document.createElement("script");
+	    hm.src = "//hm.baidu.com/hm.js?fe24de568008d193edf3e7fb22846af3";
+	    var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+
+})();
+</script>
+
 </head>
 <body <?php body_class(); ?>>
   <header id="zan-header">
