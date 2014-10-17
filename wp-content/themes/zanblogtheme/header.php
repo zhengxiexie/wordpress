@@ -105,7 +105,6 @@ var _hmt = _hmt || [];
           <span class="sr-only">下拉框</span>
           <span class="fa fa-reorder fa-lg"></span>
         </button>
-		<a href="http://www.feed43.com/2480770485667041.xml">aaa</a>
         <div class="navbar-collapse collapse">
           <?php
             $defaults = array(

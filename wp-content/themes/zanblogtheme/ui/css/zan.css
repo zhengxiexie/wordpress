@@ -1243,7 +1243,7 @@
 						   .zan-author .author-top {
 							   position: absolute;
 							   /*background-color: #696969;*/
-							   background: #d9534f url("../images/OS_X_Mavericks05.jpg")  center no-repeat;
+							   background: #d9534f url("../images/stock-footage-binary-world-binary-running-code-with-a-shape-of-world-map-can-be-used-as-background-for-any.jpg")  center no-repeat;
 							   width: 100%;
 							   height: 80px
 
@@ -1255,7 +1255,7 @@
 							   width: 100%;
 							   height: 180px;
 							   /*background-color: #d9534f;*/
-							   background: #d9534f url("../images/OS_X_Mavericks05.jpg")  center no-repeat;
+							   background: #d9534f url("../images/stock-footage-binary-world-binary-running-code-with-a-shape-of-world-map-can-be-used-as-background-for-any.jpg")  center no-repeat;
 							   border-top: 4px solid #fff
 
 						   }
@@ -2291,7 +2291,7 @@
 
 													  #commentform input {
 														  padding: 10px 15px;
-														  background-color: transparent;
+														  /*background-color: transparent;*/
 														  border: 2px solid #d9534f
 
 													  }
